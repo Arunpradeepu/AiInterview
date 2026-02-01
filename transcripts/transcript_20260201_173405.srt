@@ -1,0 +1,112 @@
+1
+00:00:00,800 --> 00:00:04,320
+Hi, I'm Arun Pradeep from CSE department. I am
+
+2
+00:00:04,820 --> 00:00:09,120
+currently pursuing third year of engineering in Panimadar Engineering College and
+
+3
+00:00:09,520 --> 00:00:13,120
+recently I am working on a project which is a chatbot application.
+
+4
+00:00:13,620 --> 00:00:17,280
+Whereas user can upload all kind of PDF Excel sheets
+
+5
+00:00:17,680 --> 00:00:21,480
+and even the audio files like dot MP3 extension
+
+6
+00:00:21,980 --> 00:00:25,280
+fields which is a MP3 files. So all these files can be
+
+7
+00:00:26,750 --> 00:00:29,950
+uploaded by the user and most of the
+
+8
+00:00:30,750 --> 00:00:34,030
+features are that implemented in this project are already
+
+9
+00:00:34,530 --> 00:00:38,230
+inside GPT except the one feature which is getting the
+
+10
+00:00:38,730 --> 00:00:42,910
+transcript from an audio file and asking question to that audio file.
+
+11
+00:00:43,410 --> 00:00:46,950
+So the user can upload all kind of PDF Excel sheets and as
+
+12
+00:00:47,450 --> 00:00:50,750
+well as the audio files and he can ask anything about it.
+
+13
+00:00:50,910 --> 00:00:54,230
+So the main reason of why we need to why someone need to
+
+14
+00:00:54,730 --> 00:00:59,030
+use the application is it reduces the time consumption.
+
+15
+00:00:59,990 --> 00:01:03,630
+The user can ask any question to the PDF,
+
+16
+00:01:04,130 --> 00:01:07,670
+upload a document and get a significant as well as the
+
+17
+00:01:08,170 --> 00:01:11,870
+faster response from that particular PDF.
+
+18
+00:01:12,370 --> 00:01:16,030
+Here the tech stack I used are React as a front end and for backend
+
+19
+00:01:16,530 --> 00:01:20,710
+I go for Python which is REST API and fast API
+
+20
+00:01:20,950 --> 00:01:24,280
+and and here also I used some of the APIs
+
+21
+00:01:24,780 --> 00:01:28,960
+which is open source LLM such as GPT 2.0
+
+22
+00:01:29,360 --> 00:01:33,360
+and also for the transcription of an audio file here that I used
+
+23
+00:01:34,080 --> 00:01:37,640
+Assembly AI to transcript the files. The user
+
+24
+00:01:38,140 --> 00:01:41,880
+can access all kind of PDF content that he uploaded
+
+25
+00:01:42,380 --> 00:01:45,760
+and ask any kind of questions based on the PDF and the LLM
+
+26
+00:01:46,260 --> 00:01:49,950
+answer only to the particular question he asked if and only if the
+
+27
+00:01:50,270 --> 00:01:53,910
+content was actually present in the PDF. This is the project I am working
+
+28
+00:01:54,410 --> 00:01:57,710
+on and this is here I'm finished the introduction.
+

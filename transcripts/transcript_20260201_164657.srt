@@ -1,0 +1,108 @@
+1
+00:00:01,840 --> 00:00:05,680
+Myself Arun Pradeep from CSE department. I am currently pursuing
+
+2
+00:00:06,320 --> 00:00:10,960
+third year and I am working on one
+
+3
+00:00:11,460 --> 00:00:14,880
+of an hackathon project which is the
+
+4
+00:00:18,400 --> 00:00:21,720
+they will give a particular topic and the user need to talk about
+
+5
+00:00:22,220 --> 00:00:25,840
+the topic for two minutes. And the two minute transcript will be stored
+
+6
+00:00:26,340 --> 00:00:29,990
+in a particular file that I already mentioned where it need to be stored.
+
+7
+00:00:30,230 --> 00:00:33,990
+And once the file was stored in the form of MP3 format,
+
+8
+00:00:34,150 --> 00:00:37,390
+the MP3 format will be go
+
+9
+00:00:37,890 --> 00:00:42,230
+to that call by using an API known as Assembly Assembly
+
+10
+00:00:42,730 --> 00:00:46,590
+API which will use to give get the transcript of a particular MP3
+
+11
+00:00:47,090 --> 00:00:50,750
+file and once that file was completed,
+
+12
+00:00:51,250 --> 00:00:54,800
+which means the once the transcript was completed, the user
+
+13
+00:00:55,300 --> 00:00:59,080
+need to user can get
+
+14
+00:00:59,580 --> 00:01:03,200
+access to that recordings as well as
+
+15
+00:01:03,700 --> 00:01:07,480
+the transcript. So in that backend folder that I have created there
+
+16
+00:01:07,980 --> 00:01:11,680
+are two files. One file is the MP3 file
+
+17
+00:01:11,840 --> 00:01:15,480
+in which the audio recording of a user will
+
+18
+00:01:15,980 --> 00:01:19,600
+be stored and the other file the file consists of the transcript of the
+
+19
+00:01:20,100 --> 00:01:23,660
+file. And this is the base model for the prototype that I am working
+
+20
+00:01:24,160 --> 00:01:28,100
+for. And once the transcript was done and dusted,
+
+21
+00:01:28,660 --> 00:01:34,820
+by using an another API, maybe GPT
+
+22
+00:01:34,900 --> 00:01:38,500
+2.0 version, we can check
+
+23
+00:01:39,000 --> 00:01:42,100
+whether how the user spoke in a particular
+
+24
+00:01:42,180 --> 00:01:46,020
+region region, the sense how he spoke and in
+
+25
+00:01:46,520 --> 00:01:50,260
+which math in which area he need to concentrate more. So likewise we
+
+26
+00:01:50,760 --> 00:01:54,220
+can predict his moves. And this is
+
+27
+00:01:54,720 --> 00:01:56,540
+the whole idea about the particular project.
+

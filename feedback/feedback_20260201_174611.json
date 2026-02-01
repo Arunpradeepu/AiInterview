@@ -1,0 +1,24 @@
+{
+  "question": "Tell me about a challenge you faced",
+  "transcript": "Hi guys, I am Arun Pradeep from CSE department and I am going to talk about the challenge that I faced the first. Okay, not going to talk about the first challenge. The recent challenge that I faced is working on a project to which is a interview practice. I took on the timer for two minutes and I can't stop the timer. I need to speak continuously for those two minutes, you may ask. So it's not a any big, big issue. But the issue is the API key is not working properly. So every time just talking two, two time, two minutes continuously. And at the end it the message, the content that I told are recorded for two minutes is there, but it's not actually fetched by the API. So this is the problem I am I actually faced. And that's what I'm that's what the problem that is faced in recent times.",
+  "raw_feedback": "SCORE: 5/10\n\nSTRENGTHS:\n- The candidate attempts to answer the question and provides some specific details about a challenge they faced.\n- They mention a real technical problem they encountered, which shows they have hands-on experience with technology.\n\nWEAKNESSES:\n- The response is notably unfocused, incomplete, and filled with unnecessary speech. This distracts from the challenge and makes it hard to understand.\n- The candidate struggles with oral communication, making their points unclear and inefficient.\n- The response lacks clear structure, with unnecessary \"um,\" \"like,\" and repeated phrases that reduce credibility.\n\nIMPROVEMENTS:\n- Focus on describing the challenge in clear, logical order: what the challenge was, why it was difficult, and what you did to address it.\n- Avoid filler words and extra phrases; speak more directly and concisely.\n- Practice telling your story with structure (Situation, Task, Action, Result), and rehearse to improve clarity and confidence.\n\nOVERALL FEEDBACK:\nThe candidate demonstrates some technical understanding but struggles with clear, concise communication. Working on structure and speech clarity would greatly improve their interview responses and credibility.",
+  "parsed_feedback": {
+    "score": 5.0,
+    "strengths": [
+      "The candidate attempts to answer the question and provides some specific details about a challenge they faced.",
+      "They mention a real technical problem they encountered, which shows they have hands-on experience with technology."
+    ],
+    "weaknesses": [
+      "The response is notably unfocused, incomplete, and filled with unnecessary speech. This distracts from the challenge and makes it hard to understand.",
+      "The candidate struggles with oral communication, making their points unclear and inefficient.",
+      "The response lacks clear structure, with unnecessary \"um,\" \"like,\" and repeated phrases that reduce credibility."
+    ],
+    "improvements": [
+      "Focus on describing the challenge in clear, logical order: what the challenge was, why it was difficult, and what you did to address it.",
+      "Avoid filler words and extra phrases; speak more directly and concisely.",
+      "Practice telling your story with structure (Situation, Task, Action, Result), and rehearse to improve clarity and confidence."
+    ],
+    "overall": "The candidate demonstrates some technical understanding but struggles with clear, concise communication. Working on structure and speech clarity would greatly improve their interview responses and credibility."
+  },
+  "timestamp": "20260201_174611"
+}

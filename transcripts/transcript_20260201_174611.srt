@@ -1,0 +1,56 @@
+1
+00:00:01,040 --> 00:00:04,240
+Hi guys, I am Arun Pradeep from CSE department and
+
+2
+00:00:04,740 --> 00:00:07,680
+I am going to talk about the challenge that I faced the first.
+
+3
+00:00:08,720 --> 00:00:12,600
+Okay, not going to talk about the first challenge. The recent challenge that
+
+4
+00:00:13,100 --> 00:00:16,760
+I faced is working on a project to which is a
+
+5
+00:00:17,260 --> 00:00:20,280
+interview practice. I took on the
+
+6
+00:00:20,780 --> 00:00:25,080
+timer for two minutes and I can't stop the timer. I need to speak continuously
+
+7
+00:00:25,580 --> 00:00:28,730
+for those two minutes, you may ask. So it's not a any big,
+
+8
+00:00:29,230 --> 00:00:32,970
+big issue. But the issue is the API key is not working properly.
+
+9
+00:00:33,050 --> 00:00:36,330
+So every time just talking two, two time, two minutes
+
+10
+00:00:36,570 --> 00:00:40,210
+continuously. And at the end it the message,
+
+11
+00:00:40,710 --> 00:00:44,090
+the content that I told are recorded for two minutes is there,
+
+12
+00:00:44,170 --> 00:00:47,490
+but it's not actually fetched by the API. So this
+
+13
+00:00:47,990 --> 00:00:51,370
+is the problem I am I actually faced. And that's
+
+14
+00:00:51,870 --> 00:00:54,250
+what I'm that's what the problem that is faced in recent times.
+
