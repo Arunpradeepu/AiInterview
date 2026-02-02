@@ -6,15 +6,16 @@ from werkzeug.utils import secure_filename
 from datetime import datetime
 import requests
 import json
+from dotenv import load_dotenv
+import os
 
 app = Flask(__name__)
 CORS(app)
 
+load_dotenv()
 # Configure AssemblyAI
-aai.settings.api_key = "4a09c2d229b34383a6f9a66ea7dc8338"
-
-# Configure OpenRouter API
-OPENROUTER_API_KEY = "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"  # Replace with your key :free
+aai.settings.api_key = os.getenv("ASSEMBLYAI_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Configure folders
@@ -179,7 +180,7 @@ OVERALL FEEDBACK:
         }
         
         payload = {
-            "model": "allenai/molmo-2-8b:free",  # Free model
+            "model": "tngtech/tng-r1t-chimera:free",  # Free model
             "messages": [
                 {
                     "role": "user",
