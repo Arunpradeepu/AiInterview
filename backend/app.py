@@ -378,4 +378,4 @@ if __name__ == '__main__':
     print(f"📁 Recordings folder: {os.path.abspath(RECORDINGS_FOLDER)}")
     print(f"📄 Transcripts folder: {os.path.abspath(TRANSCRIPTS_FOLDER)}")
     print(f"📊 Feedback folder: {os.path.abspath(FEEDBACK_FOLDER)}")
-    app.run(debug=True, port=5001)
+    app.run()
