@@ -6,21 +6,18 @@ from werkzeug.utils import secure_filename
 from datetime import datetime
 import requests
 import json
-# from dotenv import load_dotenv
-# import os
+
 
 app = Flask(__name__)
 CORS(app)
 
-# load_dotenv()
 
-# print("AssemblyAI key:", os.getenv("ASSEMBLYAI_API_KEY"))
-# print("OpenRouter key:", os.getenv("OPENROUTER_API_KEY"))
+
 # Configure AssemblyAI
 aai.settings.api_key = "4a09c2d229b34383a6f9a66ea7dc8338"
-# aai.settings.api_key = os.getenv("ASSEMBLYAI_API_KEY").strip()
+
 OPENROUTER_API_KEY = "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"
-# OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY").strip()
+
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Configure folders

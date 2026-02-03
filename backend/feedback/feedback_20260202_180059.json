@@ -1,0 +1,25 @@
+{
+  "question": "Introduce yourself",
+  "transcript": "Hi, I am arun from cc department.",
+  "raw_feedback": "\n\nSCORE: 3/10  \n\nSTRENGTHS:  \n- Provides a basic introduction with name and department.  \n- Uses a greeting (\"Hi\"), which is polite and approachable.  \n- Concise, though overly brief.  \n\nWEAKNESSES:  \n- Lacks detail (e.g., role, experience, skills, or achievements).  \n- Name (\"arun\") and department (\"cc\") are not capitalized, appearing unprofessional.  \n- Overly vague (\"cc department\" is unclear\u2014is this Customer Care, Computer Science, or something else?).  \n\nIMPROVEMENTS:  \n- Capitalize name and clarify the department (e.g., \"Customer Care\" instead of \"cc\").  \n- Expand with relevant professional details: current role, key skills, and achievements (e.g., \"I\u2019m a customer success specialist with 3 years of experience optimizing client retention\").  \n- Add structure (e.g., \"Hi, I\u2019m Arun from the Customer Care department. I specialize in [field] and have recently [achievement]. I\u2019m passionate about [relevant interest].\").  \n\nOVERALL FEEDBACK:  \nThe response is overly brief and lacks professional polish. While it covers the basics, it misses an opportunity to showcase qualifications or personality. Adding structure, clarity, and specificity would significantly strengthen the answer.",
+  "parsed_feedback": {
+    "score": 3.0,
+    "strengths": [
+      "Provides a basic introduction with name and department.",
+      "Uses a greeting (\"Hi\"), which is polite and approachable.",
+      "Concise, though overly brief."
+    ],
+    "weaknesses": [
+      "Lacks detail (e.g., role, experience, skills, or achievements).",
+      "Name (\"arun\") and department (\"cc\") are not capitalized, appearing unprofessional.",
+      "Overly vague (\"cc department\" is unclear\u2014is this Customer Care, Computer Science, or something else?)."
+    ],
+    "improvements": [
+      "Capitalize name and clarify the department (e.g., \"Customer Care\" instead of \"cc\").",
+      "Expand with relevant professional details: current role, key skills, and achievements (e.g., \"I\u2019m a customer success specialist with 3 years of experience optimizing client retention\").",
+      "Add structure (e.g., \"Hi, I\u2019m Arun from the Customer Care department. I specialize in [field] and have recently [achievement]. I\u2019m passionate about [relevant interest].\")."
+    ],
+    "overall": "The response is overly brief and lacks professional polish. While it covers the basics, it misses an opportunity to showcase qualifications or personality. Adding structure, clarity, and specificity would significantly strengthen the answer."
+  },
+  "timestamp": "20260202_180059"
+}

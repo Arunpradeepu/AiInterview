@@ -1,0 +1,25 @@
+{
+  "question": "explain any movie ",
+  "transcript": "I am arun pradeep from cse department. Can you hear me?",
+  "raw_feedback": "\n\nSCORE: 1/10  \n\nSTRENGTHS:  \n- Provided a clear self-introduction (name and department).  \n- Demonstrated basic communication etiquette by checking if they could be heard.  \n- Maintained a polite tone in their response.  \n\nWEAKNESSES:  \n- **Failed to address the question** (\"explain any movie\") entirely.  \n- Introduced **irrelevant personal details** unrelated to the prompt.  \n- Displayed a **lack of situational awareness** by not recognizing the mismatch between the question and response.  \n\nIMPROVEMENTS:  \n- **Actively listen to the question** and ensure responses directly address it.  \n- **Avoid unnecessary information** (e.g., department) unless explicitly relevant.  \n- **Practice mock interviews** to build confidence in answering unexpected or misunderstood questions.  \n\nOVERALL FEEDBACK:  \nThe response entirely missed the mark by ignoring the core question and introducing unrelated details. While polite, the candidate needs to improve their listening skills and focus on delivering relevant, concise answers aligned with the interviewer\u2019s prompts.",
+  "parsed_feedback": {
+    "score": 1.0,
+    "strengths": [
+      "Provided a clear self-introduction (name and department).",
+      "Demonstrated basic communication etiquette by checking if they could be heard.",
+      "Maintained a polite tone in their response."
+    ],
+    "weaknesses": [
+      "**Failed to address the question** (\"explain any movie\") entirely.",
+      "Introduced **irrelevant personal details** unrelated to the prompt.",
+      "Displayed a **lack of situational awareness** by not recognizing the mismatch between the question and response."
+    ],
+    "improvements": [
+      "**Actively listen to the question** and ensure responses directly address it.",
+      "**Avoid unnecessary information** (e.g., department) unless explicitly relevant.",
+      "**Practice mock interviews** to build confidence in answering unexpected or misunderstood questions."
+    ],
+    "overall": "The response entirely missed the mark by ignoring the core question and introducing unrelated details. While polite, the candidate needs to improve their listening skills and focus on delivering relevant, concise answers aligned with the interviewer\u2019s prompts."
+  },
+  "timestamp": "20260202_174608"
+}
